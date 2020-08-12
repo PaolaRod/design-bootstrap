@@ -18,7 +18,7 @@ Componentes del framework Bootstrap entre ellos:
 * Pill badges
 
 ## Previsualizacion 📖
-![](file:///home/pao/Im%C3%A1genes/design-bootstrap.png)
+![]()
 
 
 
