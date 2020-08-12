@@ -25,7 +25,7 @@ https://paolarod.github.io/design-bootstrap/.
 
 ## Previsualizacion 📖
 Una muestra de como se ve el sitio web. 
-![](https://github.com/PaolaRod/design-bootstrap/blob/master/images/design-bootstrap.png)
+![](https://github.com/PaolaRod/design-bootstrap/blob/master/images/preview.jpeg)
 
 
 
